@@ -1,5 +1,5 @@
 # aucMulticlass 
-Classifier: Logistic Regression, SVM, Naive Bayes, Decision Tree
+Classifier: Logistic Regression, SVM, Naive Bayes, Decision Tree  
 Calculate the micro roc_auc value for multiclass classfier.    
 Calculate the kappa value for each class for a mluticlass classifier.  
 
